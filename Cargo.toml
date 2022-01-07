@@ -1,0 +1,11 @@
+[package]
+name = "click4date"
+version = "1.0.0"
+authors = ["oran c <oranbusiness@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clipboard = "0.5.0"
+chrono = "0.4.19"
