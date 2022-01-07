@@ -1,3 +1,6 @@
+// [How to make a program that does not display the console window? - Stack Overflow](https://stackoverflow.com/questions/29763647/how-to-make-a-program-that-does-not-display-the-console-window/29764309)
+#![windows_subsystem = "windows"]
+
 extern crate clipboard;
 
 use clipboard::ClipboardProvider;

@@ -44,6 +44,9 @@ pyperclip.copy("{}{}{}".format(year,month,day) )
 ### add the exe to your taskbar to have easy access to the app
 
 # how to build from scratch (windows):
+
+
+
 ### install rust
 [Install Rust - Rust Programming Language](https://www.rust-lang.org/tools/install)
 ![](assets/2022-01-07-11-17-26.png)
@@ -52,3 +55,21 @@ pyperclip.copy("{}{}{}".format(year,month,day) )
 cargo --version
 ```
 ### if cargo command is not found, link it to windows path environment variable 
+
+![](assets/2022-01-07-11-35-10.png)
+![](assets/2022-01-07-11-39-00.png)
+
+# add to path `ls ~/.cargo/bin ` (powershell)
+### in my case its ` C:\Users\o\.cargo\bin`
+![](assets/2022-01-07-11-37-43.png)
+![](assets/2022-01-07-11-38-07.png)
+
+### run `cargo -v` 
+![](assets/2022-01-07-11-40-02.png)
+
+### success!
+
+# Compile the program
+```bash
+cargo build
+```
