@@ -6,6 +6,8 @@
 ![image](https://user-images.githubusercontent.com/29699356/161469327-5d899df8-4906-4b93-abb2-2c0589dd5f6f.png)
 
 ## the date is copied to the clipbard in the format: YYYYMMDD
+# Download Here:
+https://github.com/wisehackermonkey/click4date/releases/
 # Code
 ## thats it. thats the whole program.
 ```rust
