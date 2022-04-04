@@ -1,10 +1,13 @@
 # click4date
+
+![image](https://user-images.githubusercontent.com/29699356/161469291-f8caccfc-9fe9-47df-b574-1bbdcab0e8b6.png)
 ### click for date
-
 ## This a really simple app that copys the current date to your clipbard
+![image](https://user-images.githubusercontent.com/29699356/161469327-5d899df8-4906-4b93-abb2-2c0589dd5f6f.png)
 
-### the date is copied to the clipbard in the format: YYYYMMDD
-### thats it. thats the whole program.
+## the date is copied to the clipbard in the format: YYYYMMDD
+# Code
+## thats it. thats the whole program.
 ```rust
 extern crate clipboard;
 
